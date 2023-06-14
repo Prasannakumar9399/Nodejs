@@ -1,0 +1,28 @@
+{
+  "name": "practical",
+  "version": "1.0.0",
+  "description": "a node js tutoril",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prasannakumar9399/Nodejs.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Prasannakumar Jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prasannakumar9399/Nodejs/issues"
+  },
+  "homepage": "https://github.com/Prasannakumar9399/Nodejs#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.22",
+    "simple-node-logger": "^21.8.12"
+  }
+}
